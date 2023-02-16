@@ -1,0 +1,2 @@
+# 2_strings
+strings
